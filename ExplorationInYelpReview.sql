@@ -152,7 +152,7 @@ Join cte Using(user_id)
 Order by 4 desc
 
 
--- Best Yelper with Recency, Frequency, Monetary (RFM) - we will be using stars here as our monetary value
+-- Best Yelper with Recency, Frequency, Monetary (RFM) - we will be using stars here as our monetary value.
 
 with rfm as
 (
